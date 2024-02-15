@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on 2TonWaffle Community</title>
+    <link>https://2tonwaffle.github.io/en/tags/about/</link>
+    <description>Recent content in about on 2TonWaffle Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Feb 2024 18:08:28 -0500</lastBuildDate>
+    <atom:link href="https://2tonwaffle.github.io/en/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://2tonwaffle.github.io/en/blog/hello_world/</link>
+      <pubDate>Thu, 15 Feb 2024 18:08:28 -0500</pubDate>
+      <guid>https://2tonwaffle.github.io/en/blog/hello_world/</guid>
+      <description>title and stuff here ** mark it up **</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://2tonwaffle.github.io/en/page/about/</link>
+      <pubDate>Thu, 15 Feb 2024 18:08:28 -0500</pubDate>
+      <guid>https://2tonwaffle.github.io/en/page/about/</guid>
+      <description>oh, hello there!!</description>
+    </item>
+  </channel>
+</rss>
